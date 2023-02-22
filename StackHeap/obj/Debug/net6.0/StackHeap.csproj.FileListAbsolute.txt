@@ -1,0 +1,15 @@
+/Users/home/repos/StackHeap/StackHeap/bin/Debug/net6.0/StackHeap
+/Users/home/repos/StackHeap/StackHeap/bin/Debug/net6.0/StackHeap.deps.json
+/Users/home/repos/StackHeap/StackHeap/bin/Debug/net6.0/StackHeap.runtimeconfig.json
+/Users/home/repos/StackHeap/StackHeap/bin/Debug/net6.0/StackHeap.dll
+/Users/home/repos/StackHeap/StackHeap/bin/Debug/net6.0/StackHeap.pdb
+/Users/home/repos/StackHeap/StackHeap/obj/Debug/net6.0/StackHeap.csproj.AssemblyReference.cache
+/Users/home/repos/StackHeap/StackHeap/obj/Debug/net6.0/StackHeap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/repos/StackHeap/StackHeap/obj/Debug/net6.0/StackHeap.AssemblyInfoInputs.cache
+/Users/home/repos/StackHeap/StackHeap/obj/Debug/net6.0/StackHeap.AssemblyInfo.cs
+/Users/home/repos/StackHeap/StackHeap/obj/Debug/net6.0/StackHeap.csproj.CoreCompileInputs.cache
+/Users/home/repos/StackHeap/StackHeap/obj/Debug/net6.0/StackHeap.dll
+/Users/home/repos/StackHeap/StackHeap/obj/Debug/net6.0/refint/StackHeap.dll
+/Users/home/repos/StackHeap/StackHeap/obj/Debug/net6.0/StackHeap.pdb
+/Users/home/repos/StackHeap/StackHeap/obj/Debug/net6.0/StackHeap.genruntimeconfig.cache
+/Users/home/repos/StackHeap/StackHeap/obj/Debug/net6.0/ref/StackHeap.dll
